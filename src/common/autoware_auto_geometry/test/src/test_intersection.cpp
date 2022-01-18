@@ -322,7 +322,6 @@ TEST(PolygonPointTest, ConvexHullTestGeneratedPlotly) {
       polygon.begin(), polygon.end(), TestPoint{-1.0F, -3.0F}));
 }
 
-
 // IoU of two intersecting shapes: a pentagon and a square. The test includes pen and paper
 // computations for the intermediate steps as assertions.
 TEST(IoUTest, PentagonRectangleIntersection) {
