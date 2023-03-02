@@ -1,7 +1,18 @@
 # Autoware.Auto
 
-> **Warning**
- We have migrated the development of Autoware to GitHub since 2022. Please check [here](https://github.com/autowarefoundation/autoware) to use latest Autoware.
+## Autoware Core/Universe Migration
+
+**We have migrated the development of Autoware to GitHub since 2022.**
+
+Please check [here](https://github.com/autowarefoundation/autoware) to use latest Autoware.
+
+You can find the new Autoware Documentation [here](https://autowarefoundation.github.io/autoware-documentation/main/).
+
+To learn more about the transition, you can check [Past, Present and the Future of Autoware](https://www.autoware.org/post/past-present-and-the-future-of-autoware).
+
+You can still make contributions to the Autoware.Auto project but MR's might take a while to be reviewed.
+
+## Autoware.Auto
 
 [Autoware](https://www.autoware.org/) is the world's first "all-in-one" open-source software for self-driving vehicles hosted under the Autoware Foundation.
 
