@@ -1,5 +1,8 @@
 # Autoware.Auto
 
+> **Warning**
+ We have migrated the development of Autoware to GitHub since 2022. Please check [here](https://github.com/autowarefoundation/autoware) to use latest Autoware.
+
 [Autoware](https://www.autoware.org/) is the world's first "all-in-one" open-source software for self-driving vehicles hosted under the Autoware Foundation.
 
 The [Autoware.Auto project](https://www.autoware.auto/), based on [ROS 2](https://docs.ros.org/en/foxy/), is the next generation successor of the [Autoware.AI project](https://www.autoware.ai/), based on [ROS 1](http://wiki.ros.org/Documentation).

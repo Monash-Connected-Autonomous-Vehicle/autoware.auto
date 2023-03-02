@@ -1,6 +1,8 @@
 Autoware.Auto {#index}
 ======================
 
+@note We have migrated the development of Autoware to GitHub since 2022. Please check [here](https://github.com/autowarefoundation/autoware) to use latest Autoware.
+
 # Introduction
 
 [Autoware](https://www.autoware.org/) is the world's first "all-in-one" open-source software for self-driving vehicles hosted under the Autoware Foundation.
